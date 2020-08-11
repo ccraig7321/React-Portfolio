@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.21ab95a1.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.892ba969.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.892ba969.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.27e0f504.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.27e0f504.js.map",
+    "static/css/2.11829350.chunk.css": "/React-Portfolio/static/css/2.11829350.chunk.css",
+    "static/js/2.daff0aed.chunk.js": "/React-Portfolio/static/js/2.daff0aed.chunk.js",
+    "static/js/2.daff0aed.chunk.js.map": "/React-Portfolio/static/js/2.daff0aed.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.7e520372b3b58992fb953f4ac7a7a321.js": "/React-Portfolio/precache-manifest.7e520372b3b58992fb953f4ac7a7a321.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/React-Portfolio/static/css/2.11829350.chunk.css.map",
+    "static/css/main.21ab95a1.chunk.css.map": "/React-Portfolio/static/css/main.21ab95a1.chunk.css.map",
+    "static/js/2.daff0aed.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.daff0aed.chunk.js.LICENSE.txt",
+    "static/media/Headshot2014.jpg": "/React-Portfolio/static/media/Headshot2014.d6d1817e.jpg",
+    "static/media/budgetHomepage.png": "/React-Portfolio/static/media/budgetHomepage.1785839e.png",
+    "static/media/burgerPicture.png": "/React-Portfolio/static/media/burgerPicture.01910105.png",
+    "static/media/combat.png": "/React-Portfolio/static/media/combat.5c913c21.png",
+    "static/media/App.css": "/React-Portfolio/static/media/full-bloom.c614347a.png",
+    "static/media/noteTakerHomepage.png": "/React-Portfolio/static/media/noteTakerHomepage.535f8835.png",
+    "static/media/plasma.png": "/React-Portfolio/static/media/plasma.2bab3500.png",
+    "static/media/stats.png": "/React-Portfolio/static/media/stats.b5061e3f.png",
+    "static/media/teamBuilder.png": "/React-Portfolio/static/media/teamBuilder.264b5c48.png",
+    "static/media/userDirectory.png": "/React-Portfolio/static/media/userDirectory.c62b41df.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27e0f504.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.daff0aed.chunk.js",
+    "static/css/main.21ab95a1.chunk.css",
+    "static/js/main.892ba969.chunk.js"
+  ]
+}
